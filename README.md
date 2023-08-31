@@ -12,11 +12,11 @@ Welcome to COVID-Xray-Diagnosis, a web-based application for automated COVID-19 
 - **Fast Processing:** Thanks to efficient algorithms, results are generated quickly, saving valuable time for healthcare providers.
 - **Open Source:** This project is open source, welcoming contributions from the community to enhance its accuracy and functionality.
 
-## Model Details
+## Details
 
 - **Accuracy:** 90% on COVID-19 diagnosis.
 - **Model Type:** Convolutional Neural Network (CNN).
-- **Training Data:** A diverse dataset of chest X-ray images (our data set kaggle tawsifurrahman covid19 radiography database)
+- **Training Data:** A diverse dataset of chest X-ray images (our data set Kaggle tawsifurrahman covid19 radiography database)
 (https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
 ## Screenshots
@@ -45,3 +45,4 @@ We welcome contributions from the open-source community to improve the accuracy 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+Special thanks to ChatGPT
