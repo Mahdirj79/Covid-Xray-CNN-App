@@ -22,16 +22,20 @@ Welcome to COVID-Xray-Diagnosis, a web-based application for automated COVID-19 
 ## Screenshots
 
 ![image](https://github.com/Mahdirj79/Covid-Xray-CNN-App/assets/139322766/e465e3c5-dacb-497c-9f6b-e6170a5ffd47)
+
 *dataset 1.*
 
 ![model 2 1 (1)](https://github.com/Mahdirj79/Covid-Xray-CNN-App/assets/139322766/8a4bebf3-f248-42cb-95b7-86dd647ddf0a)
-*CNN model 1.*
+
+*CNN model 2.*
 
 ![image](https://github.com/Mahdirj79/Covid-Xray-CNN-App/assets/139322766/b0023c95-cd3c-4a85-99d0-38a3bee64cb8)
-*App 1.*
+
+*App 3.*
 
 ![image](https://github.com/Mahdirj79/Covid-Xray-CNN-App/assets/139322766/5adadb3b-99c3-48c9-b74b-4c552ef6a0c8)
-*Prediction 1.*
+
+*Prediction 4.*
 
 ## Contributing
 
